@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Suni29/xQuest/main/README/xQuestBanner-medium.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/xTechSoftware/.github/main/profile/xTech.png" alt="Banner"/>
   <br/><br/>
   Check out xQuest in our REPO list.
   <br/><br/>
